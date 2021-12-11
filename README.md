@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dkenyosato
 - 👀 I’m interested in oncology informatics, AI, mathematical model
-- 🌱 I’m currently learning modern technology
+- 🌱 I’m currently learning clinical statistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
